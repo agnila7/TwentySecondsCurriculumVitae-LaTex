@@ -32,6 +32,7 @@
 \RequirePackage{pgffor}
 \RequirePackage{marvosym}
 \RequirePackage{parskip}
+\RequirePackage{hyperref}
 
 %%%%%%%%%%%
 % OPTIONS %
